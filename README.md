@@ -1,4 +1,6 @@
 # B.S.-Card-Game-using-JavaScript
+***ATTENTION ---> PLEASE CLICK ON EDIT REAME.md AND NOT TO VIEW REGULAR VIEW AS THE TEXT BELOW IS NOT DISPLAYING PROPERLY
+
 This is the pre-development of the B.S. Card Game using JavaScript. Much help and input would be appreciated as I'm a beginner to
 intermediate level at JavaScript and Object Oriented Programming.
 
